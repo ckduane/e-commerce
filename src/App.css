@@ -8,13 +8,13 @@
 }
 
 body {
-  font-family: "Oswald", sans-serif !important;
+  font-family: "Montserrat", sans-serif !important;
   background: var(--mainWhite) !important;
   color: var(--mainDark) !important;
 }
 
 .text-title {
-  font-family: "Itim", sans-serif;
+  font-family: "Oswald", sans-serif;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
